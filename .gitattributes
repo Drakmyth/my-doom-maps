@@ -1,0 +1,11 @@
+* text=auto
+
+.gitattributes text export-ignore
+.gitignore     text export-ignore
+
+*.md     text diff=markdown
+*.txt    text
+
+*.wad  binary
+*.webp binary
+*.zip  binary
